@@ -81,15 +81,6 @@ a {
 }
 
 /* ========================================================= NAVBAR ========================================================= */
-/* nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 60px;
-    padding: 0 50px;
-    background: transparent;
-} */
-
 nav {
     position: sticky;
     top: 0;
@@ -1092,4 +1083,5 @@ nav .left a {
     .hero-section .text h2 {
         font-size: 30px;
     }
+
 }
